@@ -1,3 +1,4 @@
+pyarrow
 mlflow
 jupyter
 scikit-learn

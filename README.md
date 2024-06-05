@@ -1,3 +1,3 @@
 # mlops
 
-Update 1
+Report for MLOps Zoomcamp 2024
