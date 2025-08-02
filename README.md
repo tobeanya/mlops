@@ -6,6 +6,7 @@ Source link: https://github.com/DataTalksClub/mlops-zoomcamp
 key commands to start up anaconda
 cat ~./bashrc 
 which python
+jupyter notebook
 
 bash
 
